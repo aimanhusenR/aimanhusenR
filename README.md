@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Aiman Husen
 ####  " Rookie Web Developer "
-![ " Rookie Web Devoloper "](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+https://pbs.twimg.com/profile_banners/1365399879422509066/1656935969/1080x360
 
 Hello there! I'm Aiman Husen, a web development enthusiast who loves to create visually appealing and functional websites. My skills include HTML (90%), CSS (70%), and JavaScript (20%). I enjoy the challenge of bringing a design to life and making it accessible to all users. When I'm not coding, you can find me exploring new technologies, reading, or hiking in the great outdoors. Let's connect and build something amazing together!
 
